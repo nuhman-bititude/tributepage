@@ -3,3 +3,8 @@
     margin-top: 250px;
     margin-bottom: 250px;
 }
+.c1{
+    background-image: url("img/pic1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
