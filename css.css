@@ -1,10 +1,11 @@
 .card-1{
     text-align: center;
-    margin-top: 250px;
-    margin-bottom: 250px;
+    margin-top: 610px;
+    margin-bottom: 50px;
 }
 .c1{
     background-image: url("img/pic1.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center;  
+    /* background-position-y: center; */
 }
